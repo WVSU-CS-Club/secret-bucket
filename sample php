@@ -1,5 +1,10 @@
-<php?
-
-<echo> This is a sample php page </echo>
-
-?>
+<html>
+ <head>
+  <title>PHP Test</title>
+ </head>
+ <body>
+ <?php
+  echo '<p>Hello World</p>'; 
+ ?> 
+ </body>
+</html>
